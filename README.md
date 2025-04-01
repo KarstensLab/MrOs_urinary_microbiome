@@ -4,5 +4,5 @@ We examined the urinary microbiome in older community-dwelling men in a paper ti
 
 Here we have our code from the analysis of the urinary microbiome of 500 men from the Osteoporetic Fractures in Men Study (MrOS). We utilized 16S rRNA gene sequencing information from voided urine samples paired with clinical characteristics such as the International Prostate Symptom Score (IPSS), BMI, age,  medical history related to prostate health, among others. We carried out the analysis primarily using R (version 4.3.1).
 
-* [Introduction and evaluating contaminants](https://KarstensLab.github.io/MrOs_urinary_microbiome/0.MrOS_EDA.html)
+* [Initial exploratory data analysis](https://KarstensLab.github.io/MrOs_urinary_microbiome/0.MrOS_EDA.html)
 
